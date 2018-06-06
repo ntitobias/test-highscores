@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "highscores", "highscores\highscores.csproj", "{3D56259D-889A-4401-9B1A-563C0692FC1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D56259D-889A-4401-9B1A-563C0692FC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D56259D-889A-4401-9B1A-563C0692FC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D56259D-889A-4401-9B1A-563C0692FC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D56259D-889A-4401-9B1A-563C0692FC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3627E26D-128F-4554-AEE8-05F008B31CE4}
+	EndGlobalSection
+EndGlobal
